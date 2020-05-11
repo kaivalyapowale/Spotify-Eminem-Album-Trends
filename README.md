@@ -9,7 +9,6 @@ This function gets access from Spotify, makes requests to get data for the playl
 
 You can use this csv file for further analysis or visualization!
 
-[The code with instructions](https://github.com/kaivalyapowale/Spotify-Eminem-Album-Trends/blob/master/Spotify-API-function-Eminem-Album-trends-demo.ipynb)
 [The code with instructions](Spotify-API-function-Eminem-Album-trends-demo.ipynb)
 
 The Jupyter notebook includes explanation of the code, part-by-part.
