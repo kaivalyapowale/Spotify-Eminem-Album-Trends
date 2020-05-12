@@ -1,10 +1,12 @@
 # Spotify-Eminem-Album-Trends
 An analysis of Eminem's album trends over the years using data from Spotify's APIs
 
+<img src="images/Spotify_Icon_CMYK_Green.png" width="100"> <img src="images/M2BMB pic.jpg" width="100"> 
+
 This repository includes the Jupyter Notebook for the analysis of Eminem's Album Trends.
 Original Analysis posted on: https://kaivalyapowale.com/2020/01/25/eminems-album-trends-and-music-to-be-murdered-by-2020/
 
-This code will help you create a fucntion to access Spotify API.
+This code will help you create a function to access Spotify API.
 This function gets access from Spotify, makes requests to get data for the playlist or album you want, formats the data, and creates a csv file.
 
 You can use this csv file for further analysis or visualization!
